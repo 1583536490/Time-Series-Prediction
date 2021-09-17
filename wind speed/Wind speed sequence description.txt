@@ -1,0 +1,1 @@
+Wind speed sequence 文件为美国维尔京群岛圣托马斯测风站实测数据，时间间隔为1min，风速单位为m/s
