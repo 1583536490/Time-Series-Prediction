@@ -1,0 +1,1 @@
+original_data为澳大利亚Alice-Springs光伏中心Site 1B光伏板2020全年功率产生数据，同时包含温度、相对湿度和辐照度等气象信息。
